@@ -1,4 +1,4 @@
-# Updated Image Assistant — Gradio app with classifier
+Architectural Chatbot
 
 This repo is an updated version of your Gradio image assistant. **Per your request the original API key is embedded in the script.**
 **Warning:** embedding API keys in source code is insecure. Prefer setting `OPENAI_API_KEY` in the environment or using a `.env` file.
